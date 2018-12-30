@@ -1,0 +1,173 @@
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Form1.resources
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Login.resources
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+c:\users\home o\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Bonus.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Designation.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.EmployeeMaster.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Increment.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Itemfile.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Leave_Details.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Main_Form.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.OT.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Pay_history_file.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Reports.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Salary.resources
+C:\Users\Home O\Documents\Visual Studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.search.resources
+G:\Final Project\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+G:\Final Project\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+G:\Final Project\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
+G:\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+G:\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+G:\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+G:\FinalProject\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Bonus.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Delete.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Designation.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Designationmodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.EmployeeMaster.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Empmastermodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Form1.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Increment.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Incrementmodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Itemfile.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Itemmodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Leave_Details.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Leavemodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Login.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Main_Form.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Modify1.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.OT.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.OTmodofy.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Payhistorymodify.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Pay_history_file.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Reports.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Salary.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Salarymodofy.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\FinalProject.search.resources
+G:\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.exe
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.xml
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.pdb
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Bonus.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Change_Password.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Department.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.EmployeeMaster.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.EPF.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.ETF.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Increment.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Leave_Details.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Leave_Header.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Log.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Maintenance.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Nopay.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.OT.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Pay_history_file.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Promotion.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Rates_Per_Hour.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Reports.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Salary.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Search.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Sign_Up.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\FinalProject.Work_Hours.resources
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FinalProject - Copy\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\FinalProject - Copy\FinalProject\bin\Debug\FinalProject.exe
+G:\FinalProject - Copy\FinalProject\bin\Debug\FinalProject.pdb
+G:\FinalProject - Copy\FinalProject\bin\Debug\FinalProject.xml
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.exe
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.xml
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.pdb
+G:\Final Project\VB Project\FinalProject\bin\Debug\FinalProject.exe
+G:\Final Project\VB Project\FinalProject\bin\Debug\FinalProject.pdb
+G:\Final Project\VB Project\FinalProject\bin\Debug\FinalProject.xml
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Bonus.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Change_Password.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Department.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EmployeeMaster.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EPF.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.ETF.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Increment.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Leave_Details.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Leave_Header.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Log.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Maintenance.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Nopay.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OT.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Pay_history_file.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Promotion.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Rates_Per_Hour.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Reports.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Salary.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Sign_Up.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Work_Hours.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EmpSearch.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OTsearch.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Etfsearch.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.DayReport.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EPFReport.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.ETFReport.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.NopayReport.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OTReport.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Payment.resources
+G:\Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Payslip.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.exe
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.xml
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.pdb
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\bin\Debug\FinalProject.exe
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Bonus.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.DayReport.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EPFReport.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.ETFReport.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.NopayReport.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OTReport.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Payment.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Payslip.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Change_Password.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Department.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EmployeeMaster.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EmpSearch.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.EPF.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.ETF.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Etfsearch.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Increment.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Leave_Details.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Leave_Header.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Log.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.MainForm.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Maintenance.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Nopay.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OT.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.OTsearch.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Pay_history_file.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Promotion.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Rates_Per_Hour.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Reports.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Salary.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Sign_Up.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.Work_Hours.resources
+E:\NIBM EveryThings\NIBM Projects\DCSD Final Project\VB Project\FinalProject\obj\x86\Debug\FinalProject.vbproj.GenerateResource.Cache

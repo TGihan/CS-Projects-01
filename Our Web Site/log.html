@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>Sign Up</title>
+</head>
+<body bgcolor="#333" text="#FFFFFF">
+<style>
+body{
+	background-image:url(bgtop2.jpg);
+	background-repeat: repeat-x;
+	
+	}
+</style>
+
+<table width="200" border="0" align="right">
+  <tr>
+    <th scope="col"><a href="table.html" style="text-decoration:none" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">Sign in</a></th>
+    <th scope="col"><a href="log.html" style="text-decoration:none" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">Log in</a></th>
+  </tr>
+</table>
+<br/>
+<br />
+<table width="499" border="0" align="center">
+  <tr>
+    <th scope="col"><a href="main.html" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">Home</a></th>
+    <th scope="col"><a href="server.html" style="text-decoration:none" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">Services</a></th>
+    <th scope="col"><a href="about.html" style="text-decoration:none" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">About</a></th>
+    <th scope="col"><a href="contact.html" style="text-decoration:none" onMouseOver="this.style.color = '#06f'" onMouseOut="this.style.color = '#FFF'">Contacts</a></th>
+  </tr>
+</table>
+<style type="text/css">
+
+a { text-decoration : none; color : #fff; font-family:segoe ui; font-size:15px; }
+
+</style>
+<font face="segoe ui" color="#fff">
+<p>&nbsp;	</p>
+<p>&nbsp; </p>
+<blockquote>&nbsp;</blockquote>
+<p align="center">
+<table width="861" height="278" border="0">
+<tr>
+  <td width="92" height="148"><p>Username</p>
+    <p>Password</p></td>
+  <td width="355"><p>
+    <input type="text" name="pas2" id="pas" width="300">    
+    </p>
+    <p>
+      <input type="text" name="uname" id="uname" width="300">
+    </p></td>
+  <td width="400" rowspan="2"><form name="form2" method="post" action="">
+    <label for="pas"></label>
+    <img src="login.gif" width="400" height="300">
+  </form></td>
+</tr>
+<tr>
+  <td><input type="submit" name="log" id="log" value="Login" style="font-size:46px" ></td></
+  <td>&nbsp;</td>
+</tr>
+</table>
+</p>
+</body>
+<script language="javascript" type="text/javascript">
+function fun()
+{
+if((document.form1.fnm.value.length==0)||(document.form1.lnm.value.length==0)||(document.form1.un.value.length==0)(document.form1.pwd1.value.length==0)(document.form1.pwd2.value.length==0))
+{
+window.alert("Field Missing");
+}
+if((!document.form1.sex[0].checked)&&(!document.form1.sex[1].checked))
+{
+window.alert("Select Your Gender");
+}
+}</script>
+</html>

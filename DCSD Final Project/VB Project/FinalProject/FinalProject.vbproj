@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91F658F5-569F-4DF2-B40D-BBA5355855CF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>FinalProject.My.MyApplication</StartupObject>
+    <RootNamespace>FinalProject</RootNamespace>
+    <AssemblyName>FinalProject</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>FinalProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>FinalProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bonus.Designer.vb">
+      <DependentUpon>Bonus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bonus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DayReport.Designer.vb">
+      <DependentUpon>DayReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DayReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EPFReport.Designer.vb">
+      <DependentUpon>EPFReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EPFReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ETFReport.Designer.vb">
+      <DependentUpon>ETFReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ETFReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NopayReport.Designer.vb">
+      <DependentUpon>NopayReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NopayReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTReport.Designer.vb">
+      <DependentUpon>OTReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OTReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.vb">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payslip.Designer.vb">
+      <DependentUpon>Payslip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Payslip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tool.Designer.vb">
+      <DependentUpon>Tool.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tool.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Department.Designer.vb">
+      <DependentUpon>Department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMaster.Designer.vb">
+      <DependentUpon>EmployeeMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpSearch.Designer.vb">
+      <DependentUpon>EmpSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmpSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EPF.Designer.vb">
+      <DependentUpon>EPF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EPF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ETF.Designer.vb">
+      <DependentUpon>ETF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ETF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Etfsearch.Designer.vb">
+      <DependentUpon>Etfsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Etfsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Increment.Designer.vb">
+      <DependentUpon>Increment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Increment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leave Details.Designer.vb">
+      <DependentUpon>Leave Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Leave Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leave Header.Designer.vb">
+      <DependentUpon>Leave Header.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Leave Header.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log.Designer.vb">
+      <DependentUpon>Log.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Log.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maintenance.Designer.vb">
+      <DependentUpon>Maintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Nopay.Designer.vb">
+      <DependentUpon>Nopay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nopay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OT.Designer.vb">
+      <DependentUpon>OT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTsearch.Designer.vb">
+      <DependentUpon>OTsearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OTsearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_history_file.Designer.vb">
+      <DependentUpon>Pay_history_file.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pay_history_file.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Promotion.Designer.vb">
+      <DependentUpon>Promotion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Promotion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rates Per Hour.Designer.vb">
+      <DependentUpon>Rates Per Hour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rates Per Hour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.vb">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salary.Designer.vb">
+      <DependentUpon>Salary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign Up.Designer.vb">
+      <DependentUpon>Sign Up.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sign Up.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Work Hours.Designer.vb">
+      <DependentUpon>Work Hours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Work Hours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bonus.resx">
+      <DependentUpon>Bonus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DayReport.resx">
+      <DependentUpon>DayReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EPFReport.resx">
+      <DependentUpon>EPFReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ETFReport.resx">
+      <DependentUpon>ETFReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NopayReport.resx">
+      <DependentUpon>NopayReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTReport.resx">
+      <DependentUpon>OTReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payslip.resx">
+      <DependentUpon>Payslip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tool.resx">
+      <DependentUpon>Tool.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Department.resx">
+      <DependentUpon>Department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMaster.resx">
+      <DependentUpon>EmployeeMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpSearch.resx">
+      <DependentUpon>EmpSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EPF.resx">
+      <DependentUpon>EPF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ETF.resx">
+      <DependentUpon>ETF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Etfsearch.resx">
+      <DependentUpon>Etfsearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Increment.resx">
+      <DependentUpon>Increment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leave Details.resx">
+      <DependentUpon>Leave Details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leave Header.resx">
+      <DependentUpon>Leave Header.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log.resx">
+      <DependentUpon>Log.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maintenance.resx">
+      <DependentUpon>Maintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nopay.resx">
+      <DependentUpon>Nopay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OT.resx">
+      <DependentUpon>OT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTsearch.resx">
+      <DependentUpon>OTsearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_history_file.resx">
+      <DependentUpon>Pay_history_file.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Promotion.resx">
+      <DependentUpon>Promotion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rates Per Hour.resx">
+      <DependentUpon>Rates Per Hour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salary.resx">
+      <DependentUpon>Salary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign Up.resx">
+      <DependentUpon>Sign Up.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Work Hours.resx">
+      <DependentUpon>Work Hours.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\garments.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\production_intro1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logindw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bobo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doho.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

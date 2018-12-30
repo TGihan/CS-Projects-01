@@ -1,0 +1,38 @@
+
+
+*SELECT * FROM Student_Master;
+
+*SELECT *FROM Lecture_Master;
+
+*SELECT * FROM Programme_MAster;
+
+*SELECT * FROM Examination Board_Master;
+
+*SELECT UHead_ID, Lect_ID,Center FROM Unit Head_Details;
+
+*SELECT * FROM Module_Details WHERE Mdl_ID=selected value AND Prgm_code=selected value;
+
+*SELECT * FROM Student_Batch_Details WHERE Pgrm_Code= Selected value AND Center=Selected Value;
+
+*SELECT * FROM Student_Exam_Details WHERE  Exam_Code=Selected Value;
+
+*SELECT * FROM Batch_Details WHERE Pgrm_Code=Selected Value AND Center=Selected Value;
+
+*SELECT * FROM Student_Exam_Details WHERE Exam_Code=Selected Value;
+
+*SELECT * FROM Student_Payment_Details WHERE SPayment_ID=selected value;
+
+*SELECT * FROM Student_Suspension_Details WHERE S_ID=selected Value AND Std_ID=Selected Value;
+
+*SELECT * FROM Certificate_Receiver_Details WHERE C_ID=selceted value;
+
+*SELECT * FROM Gold_Medal_Details WHERE Pgrm_code=Selected Value AND Batch_code=Selected Value;
+
+*SELECT * FROM SCholarship_Details WHERE Sco_ID=selected value;
+
+*SELECT * FROM Student_Attendance-Details WHERE Std_ID=selected value;
+
+*SELECT * FROM Lec_Attendance_Details WHERE Lect_ID=selected value AND Center=Selected value;
+
+
+

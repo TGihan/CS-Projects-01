@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<body>
+<style>
+body{
+	background-image:url(bgtop2.jpg);
+	background-repeat: repeat-x;
+	}
+</style>
+<table width="200" border="0" align="right">
+  <tr>
+    <th scope="col"><a href="table.html" style="text-decoration:none" onmouseover="this.style.color = '#06f'" onmouseout="this.style.color = '#FFF'">Order Now</a></th>
+  </tr>
+</table>
+
+<br/>
+<br />
+<table width="499" border="0" align="center">
+  <tr>
+    <th scope="col"><a href="main.html" onmouseover="this.style.color = '#06f'" onmouseout="this.style.color = '#FFF'">Home</a></th>
+    <th scope="col"><a href="server.html" style="text-decoration:none" onmouseover="this.style.color = '#06f'" onmouseout="this.style.color = '#FFF'">Services</a></th>
+    <th scope="col"><a href="about.html" style="text-decoration:none" onmouseover="this.style.color = '#06f'" onmouseout="this.style.color = '#FFF'">About</a></th>
+    <th scope="col"><a href="contact.html" style="text-decoration:none" onmouseover="this.style.color = '#06f'" onmouseout="this.style.color = '#FFF'">Contacts</a></th>
+  </tr>
+</table>
+<style type="text/css">
+
+a { text-decoration : none; color : #fff; font-family:calibri; font-size:15px; }
+
+</style>
+<style>
+body{
+	background-color:#333;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 600px;
+}
+img{
+	-webkit-transition-property: opacity;
+	-webkit-transition-duration: 2s;
+	position: absolute;
+	width: 100%;
+	height: 420px;
+	left: -1px;
+	top: 100px;
+	}
+	img.fade-out{opacity:0;}
+	img.fade-in{opacity:1;}
+</style>
+<img src="image10.jpg"  width="100%"/>
+<img src="image02.jpg" width="100%"/>
+<img src="image06.jpg" width="100%"/>
+<img src="image04.jpg" width="100%"/>
+<script>
+ var interval=4*20;
+ var images=document.getElementsByTagName("img");
+ var imageArray=[];
+ var imageCount=images.length;
+ var current=0;
+ 
+ var randomize=function(){
+	 return(Math.round(Math.random()*3-1.5));
+	 }
+	 for(var i=0;i< imageCount;i++){
+		 images[i].className='fade-out';
+		 imageArray[i]=images[i];
+	 }
+	 imageArray.sort(randomize);
+	 
+	 var fade=function(){
+		 
+		 imageArray[current++].className='fade-out';
+		 if(current==imageCount){
+			 current=0;
+			 imageArray.sort(randomize);
+		 }
+		 imageArray[current].className='fade-in';
+		 setTimeout(fade,interval*100);
+	 };
+	 fade();
+</script>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<font face="segoe ui" color="#FFFFFF" size="2.5">
+<p align="left">
+Introduction Brightway Printing Press L.L.C, a subsidiary of the Brightway Group of companies is a trusted and renowned printing solution provider, committed to providing impressive services in line with the latest technological trends. Through the years of constant change in the media, market demand, and drastic changes in technology, Brightway was able to adapt and grow with the changing environment, into one of the most trusted names in the printing industry here in the United Arab Emirates.
+
+Brightway has assisted in enhancing the corporate image and branding of some of the most elite corporate organizations here in the United Arab Emirates. Customer service, high-quality printing and state of the art technology are given utmost priority, at Brightway Printing Press.</p></font>
+
+<table width="1310" border="0">
+  <tr bgcolor="#333" align="left">
+
+    <th width="626" ><object classid="clsid:166B1BCA-3F9C-11CF-8075-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/director/sw.cab#version=10,1,1,0" width="626" height="180" title="super">
+      <param name="src" value="colo.swf" />
+      <embed src="colo.swf" pluginspage="http://www.adobe.com/shockwave/download/" width="626" height="180"></embed>
+    </object></th>
+  </tr>
+    </table>
+    
+    <table width="1313" border="0">
+   <tr>
+    <th width="50" height="382" align="left" scope="col"><video controls autoplay="true"  height="380" loop="loop">
+      <source src="cocos.mp4" type="video/mp4" />
+    </video></th>
+    
+   <th align="right"><p><font face="tahoma" color="#fff" size="2">Brightway Printing Press upholds our commitment to quality, service and advancement in <br />
+printing technology to our customers. With productive years of printing experience, <br />our staff is expert in terms of handling industrial printing equipment for much smoother and productive workflow. This is why we are one of the leading producers of  <br /> 
+consumer and business to business printing needs.<br />
+       <br />
+     Our highly skilled and dedicated employees strive to make our customers' experience with us go beyond satisfactory. Our dynamic workforce are all set with the utmost graphical and technical skills to provide comprehensive support in the production of high <br />quality prints to suit any kind of specification. <br /> 
+     Our premises located in Srilanka, consists of total operating space of 2,000 sq. ft. 
+     which houses our state-of- the art facilities. <br /></th>
+
+  </tr>
+</table>
+
+<hr size="8" color="#666" />
+
+<font face="segoe ui" size="4" color="#0099FF">
+<br />
+<p align="center">
+Copyright &copy; Titans 2013
+<font face="segoe ui" size="2" color="#0099FF">
+<br />
+Gihan RMRL Bridge Mode 2015
+</font>
+</body>
+</html>
